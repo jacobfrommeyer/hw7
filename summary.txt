@@ -1,1 +1,5 @@
+Summary 1:
 Visual Studio doesn’t give out much information in the way of warnings or possible issues in the source code during building.  CPPcheck gives out very detailed descriptions of issues that may arise or things that need to be fixed.
+
+Summary 2:
+Doxygen has issues that could be fixed but don't necessarily hinder the use of the application.
